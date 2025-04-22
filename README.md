@@ -83,8 +83,8 @@ public function export()
 In the Blade view, integrate DataTables to display the book data in a searchable and paginated table.
 
 11. Test Import/Export Functionality
-To test importing data, upload an Excel file containing book data via the form in your view.
-To test exporting data, click the "Export" button to download the books list as an Excel file.
+- To test importing data, upload an Excel file containing book data via the form in your view.
+- To test exporting data, click the "Export" button to download the books list as an Excel file.
 
 ## Run the Application:
 Use php artisan serve to start the application.
